@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/jezman/.platformio/penv/bin:/home/jezman/.platformio/penv:/home/jezman/.rvm/gems/ruby-2.5.1/bin:/home/jezman/.rvm/gems/ruby-2.5.1@global/bin:/home/jezman/.rvm/rubies/ruby-2.5.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/jezman/.rvm/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/jezman/bin:/home/jezman/go/bin:/usr/local/go/bin:/home/jezman/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
